@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Flag Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mail-History" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-284.000000, -254.000000)">
+        <g id="#3" transform="translate(-170.000000, 233.000000)" fill="#FFFFFF">
+            <g id="Flag-Icon" transform="translate(437.000000, 8.000000)">
+                <path d="M19,23.4096257 L19,34.0012539 C19,34.5528461 18.5561352,35 18,35 C17.4477153,35 17,34.5613852 17,34.0012539 L17,23.5 L17,13.375 C17,13.375 19.2158978,13 20.3238467,13 C23.0213294,13 25.718812,14.5 28.4162946,14.5 C30.437686,14.5 33,13 33,13 L33,23.875 C33,23.875 30.6527158,25 28.5556176,25 C26.1886161,25 23.613689,23.6791915 21.1757838,23.4876743 C20.3743572,23.4247158 19.6308415,23.4064597 19,23.4096257 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

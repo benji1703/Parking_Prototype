@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="22px" viewBox="0 0 16 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mail-History" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-339.000000, -254.000000)">
+        <g id="#3" transform="translate(-170.000000, 233.000000)" fill="#FFFFFF">
+            <g id="Archive-Icon" transform="translate(493.000000, 8.000000)">
+                <path d="M28,15 L31,15 C31.5522847,15 32,15.4477153 32,16 L16,16 C16,15.4477153 16.4477153,15 17,15 L20,15 C20,13.8954305 20.8954305,13 22,13 L26,13 C27.1045695,13 28,13.8954305 28,15 Z M16.9473684,16.9206265 L31.0176842,16.9206265 L30.3157895,33.74 C30.3157895,33.74 30.0509474,35 29.0522105,35 L24.4206316,35 L23.5785263,35 L18.9469474,35 C17.9486316,35 17.6837895,33.74 17.6837895,33.74 L16.9473684,16.9206265 Z M27.8999939,19 L26.8999939,19 L26.3999939,33.4376883 L27.3999939,33.4376883 L27.8999939,19 Z M21.5,33.4376883 L21.0001666,19 L20,19 L20.4998334,33.4376883 L21.5,33.4376883 Z M23.5,19 L23.5,33.4376883 L24.5,33.4376883 L24.5,19 L23.5,19 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

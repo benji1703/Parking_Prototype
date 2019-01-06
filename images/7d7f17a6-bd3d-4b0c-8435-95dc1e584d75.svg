@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Inbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-14.000000, -740.000000)">
+        <g id="Tool-Bar" transform="translate(0.000000, 729.000000)">
+            <g id="Icon" transform="translate(14.000000, 11.000000)">
+                <circle id="Oval" stroke="#007AFF" cx="11.5" cy="11" r="10.5"></circle>
+                <path d="M4.5,7 L18.5,7 L18.5,8 L4.5,8 L4.5,7 Z M6.5,11 L16.5,11 L16.5,12 L6.5,12 L6.5,11 Z M8.5,15 L14.5,15 L14.5,16 L8.5,16 L8.5,15 Z" id="Combined-Shape" fill="#007AFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
